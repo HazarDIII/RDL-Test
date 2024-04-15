@@ -1,0 +1,11 @@
+{
+"name": "Common",
+"image": "https://raw.githubusercontent.com/RDL/blob/main/images/Common.jpg",
+"attributes": [
+    {
+      "trait_type": "Rare",
+      "value": "Common" 
+    }
+ ]
+    
+}
