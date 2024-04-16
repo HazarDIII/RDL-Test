@@ -1,1 +1,11 @@
-
+{
+"name": "Uncommon",
+"image": "https://raw.githubusercontent.com/HazarDIII/main/images/Uncommon.jpg",
+"attributes": [
+    {
+      "trait_type": "Rare",
+      "value": "Uncommon" 
+    }
+ ]
+    
+}
