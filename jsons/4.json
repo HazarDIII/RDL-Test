@@ -1,9 +1,9 @@
 {
-"name": "Legendary",
+"name": "Legendary Card 1",
 "image": "https://raw.githubusercontent.com/HazarDIII/RDL/main/images/Legendary.png",
 "attributes": [
     {
-      "trait_type": "Rare",
+      "trait_type": "Rarity",
       "value": "Legendary" 
     }
  ]
