@@ -1,11 +1,10 @@
 {
-"name": "Uncommon",
-"image": "https://raw.githubusercontent.com/HazarDIII/main/images/Uncommon.jpg",
-"attributes": [
-    {
-      "trait_type": "Rare",
-      "value": "Uncommon" 
-    }
- ]
-    
+    "name": "Legendary Card 2",
+    "image": "https://raw.githubusercontent.com/HazarDIII/RDL/main/images/2.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
 }
